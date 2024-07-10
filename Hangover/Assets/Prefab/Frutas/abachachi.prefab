@@ -96,6 +96,7 @@ GameObject:
   - component: {fileID: 960836336418136511}
   - component: {fileID: 6169865730132635611}
   - component: {fileID: -588156104160293229}
+  - component: {fileID: -8806848108129354057}
   m_Layer: 0
   m_Name: abachachi
   m_TagString: Untagged
@@ -232,3 +233,19 @@ MonoBehaviour:
   x: 0
   y: 0
   board: {fileID: 0}
+--- !u!111 &-8806848108129354057
+Animation:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5090536341604393258}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Animation: {fileID: 0}
+  m_Animations:
+  - {fileID: 0}
+  m_WrapMode: 0
+  m_PlayAutomatically: 1
+  m_AnimatePhysics: 0
+  m_CullingType: 0
